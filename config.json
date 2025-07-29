@@ -6,10 +6,10 @@
         },
         {
             "store": "zara",
-            "url": "https://www.zara.com/tr/tr/godeli-halter-yaka-kisa-elbise-p02858777.html?v1=459502627&v2=2420896"
+            "url": "https://www.zara.com/share/duz-kesim-dokumlu-pantolon-p03421324.html?v1=449311712&utm_campaign=productShare&utm_medium=mobile_sharing_iOS&utm_source=red_social_movil"
         }
     ],
-    "sizes_to_check": [ "S"],
+    "sizes_to_check": [ "X"," S"],
     "sleep_min_seconds": 12,  
     "sleep_max_seconds": 22
 }
